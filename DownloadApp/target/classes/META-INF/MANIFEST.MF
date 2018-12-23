@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: DownloadApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ekuyraj
+Implementation-Vendor-Id: com.download
+Build-Jdk: 1.8.0_71
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/DownloadApp
+Created-By: Maven Integration for Eclipse
+
